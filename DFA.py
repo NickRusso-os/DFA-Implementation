@@ -1,14 +1,3 @@
-#Nicholas Russo
-#njr35
-
-#1
-print("Project 1 for CS 341")
-print("Section number: 008")
-print("Semester: Spring 2023")
-print("Written by: Nicholas Russo, njr35")
-print("Instructor: Marvin Nakayama, marvin@njit.edu")
-
-#2
 while True:
     #user input about continuing loop
     ans = input("Do you want to enter a string? y/n ")
@@ -18,7 +7,6 @@ while True:
         #get and store user string
         user_string = input("Please enter a string over Σ: ")
         print(user_string)
-    #3
     upsilon = "0123456789"
     psi = "abcdefghijklmnopqrstuvwxyz"
     delta = "."
