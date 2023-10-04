@@ -2,7 +2,7 @@
 A DFA that validates an email address according to NJIT's email format.
 
 ## Overview
-This program, written by Nicholas Russo (njr35), is a Deterministic Finite Automaton (DFA) that checks if the provided string conforms to a specific email format. It was developed for Project 1 of CS 341 (Section 008, Spring 2023) under the guidance of instructor Marvin Nakayama (marvin@njit.edu).
+This program, written by Nicholas Russo, is a Deterministic Finite Automaton (DFA) that checks if the provided string conforms to NJIT's email format.
 
 ## Functionality
 
