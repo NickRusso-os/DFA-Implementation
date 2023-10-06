@@ -1,8 +1,6 @@
 # Email Format Checker (DFA Implementation)
-A DFA that validates an email address according to NJIT's email format.
 
-## Overview
-This program, written by Nicholas Russo, is a Deterministic Finite Automaton (DFA) that checks if the provided string conforms to NJIT's email format.
+A Deterministic Finite Automaton (DFA) that checks if the provided string conforms to NJIT's email format.
 
 ## Functionality
 
